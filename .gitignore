@@ -1,0 +1,6 @@
+*.pyc
+*.egg
+*.sqlite3
+*.log
+.idea
+.DS_Store
